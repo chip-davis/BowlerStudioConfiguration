@@ -1,5 +1,9 @@
 {
   "workspace": {
+    "https://github.com/chip-davis/sweepingfilenamev2.git": [
+      "chip-davis/sweepingfilenamev2",
+      "1690916701537"
+    ],
     "https://github.com/chip-davis/sweepingnameplate.git": [
       "chip-davis/sweepingnameplate",
       "1690916656276"
